@@ -2,7 +2,7 @@
 TWRP device tree for Samsung Galaxy Z Fold5 q5q
 
 #### TWRP Recovery image for Samsung Galaxy Z Fold5
-[![download](https://img.shields.io/github/downloads/serdeliuk/android_device_samsung_q5q/total)](https://github.com/serdeliuk/android_device_samsung_q5q/releases/download/1/twrp-3.7.0_12-0-q5q.img.tar.gz)
+[![download](https://img.shields.io/github/downloads/serdeliuk/android_device_samsung_q5q/total)](https://github.com/serdeliuk/android_device_samsung_q5q/releases/download/2/twrp-3.7.0_12-1-q5q.img.tar.gz)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
 
