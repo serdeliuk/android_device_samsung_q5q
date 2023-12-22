@@ -10,7 +10,6 @@ TWRP device tree for Samsung Galaxy Z Fold5 q5q
 ## Please read LICENSE.txt for more details
 
 
-Use this [XDA thread](https://xdaforums.com/t/info-galaxy-z-fold5-twrp.4633209/) for comments
 <br><br>
 
 ---
